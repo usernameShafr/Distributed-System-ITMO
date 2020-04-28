@@ -1,0 +1,1146 @@
+Opened pipe from process 0 to process 1
+Opened pipe from process 0 to process 2
+Opened pipe from process 1 to process 0
+Opened pipe from process 1 to process 2
+Opened pipe from process 2 to process 0
+Opened pipe from process 2 to process 1
+Closed WRITE pipe from process 0 to process 1 by worker 1
+Closed WRITE pipe from process 0 to process 2 by worker 1
+Closed READ  pipe from process 0 to process 2 by worker 1
+Closed READ  pipe from process 1 to process 0 by worker 1
+Closed READ  pipe from process 1 to process 2 by worker 1
+Closed WRITE pipe from process 2 to process 0 by worker 1
+Closed READ  pipe from process 2 to process 0 by worker 1
+Closed WRITE pipe from process 2 to process 1 by worker 1
+Closed READ  pipe from process 0 to process 1 by main
+Closed READ  pipe from process 0 to process 2 by main
+Closed WRITE pipe from process 1 to process 0 by main
+Closed WRITE pipe from process 1 to process 2 by main
+Closed READ  pipe from process 1 to process 2 by main
+Closed WRITE pipe from process 2 to process 0 by main
+Closed WRITE pipe from process 2 to process 1 by main
+Closed READ  pipe from process 2 to process 1 by main
+Closed WRITE pipe from process 0 to process 1 by worker 2
+Closed READ  pipe from process 0 to process 1 by worker 2
+Closed WRITE pipe from process 0 to process 2 by worker 2
+Closed WRITE pipe from process 1 to process 0 by worker 2
+Closed READ  pipe from process 1 to process 0 by worker 2
+Closed WRITE pipe from process 1 to process 2 by worker 2
+Closed READ  pipe from process 2 to process 0 by worker 2
+Closed READ  pipe from process 2 to process 1 by worker 2
+Opened pipe from process 0 to process 1
+Opened pipe from process 0 to process 2
+Opened pipe from process 1 to process 0
+Opened pipe from process 1 to process 2
+Opened pipe from process 2 to process 0
+Opened pipe from process 2 to process 1
+Closed READ  pipe from process 0 to process 1 by main
+Closed READ  pipe from process 0 to process 2 by main
+Closed WRITE pipe from process 1 to process 0 by main
+Closed WRITE pipe from process 1 to process 2 by main
+Closed READ  pipe from process 1 to process 2 by main
+Closed WRITE pipe from process 2 to process 0 by main
+Closed WRITE pipe from process 2 to process 1 by main
+Closed READ  pipe from process 2 to process 1 by main
+Closed WRITE pipe from process 0 to process 1 by worker 1
+Closed WRITE pipe from process 0 to process 2 by worker 1
+Closed READ  pipe from process 0 to process 2 by worker 1
+Closed READ  pipe from process 1 to process 0 by worker 1
+Closed READ  pipe from process 1 to process 2 by worker 1
+Closed WRITE pipe from process 2 to process 0 by worker 1
+Closed READ  pipe from process 2 to process 0 by worker 1
+Closed WRITE pipe from process 2 to process 1 by worker 1
+Closed WRITE pipe from process 0 to process 1 by worker 2
+Closed READ  pipe from process 0 to process 1 by worker 2
+Closed WRITE pipe from process 0 to process 2 by worker 2
+Closed WRITE pipe from process 1 to process 0 by worker 2
+Closed READ  pipe from process 1 to process 0 by worker 2
+Closed WRITE pipe from process 1 to process 2 by worker 2
+Closed READ  pipe from process 2 to process 0 by worker 2
+Closed READ  pipe from process 2 to process 1 by worker 2
+Opened pipe from process 0 to process 1
+Opened pipe from process 0 to process 2
+Opened pipe from process 0 to process 3
+Opened pipe from process 0 to process 4
+Opened pipe from process 0 to process 5
+Opened pipe from process 1 to process 0
+Opened pipe from process 1 to process 2
+Opened pipe from process 1 to process 3
+Opened pipe from process 1 to process 4
+Opened pipe from process 1 to process 5
+Opened pipe from process 2 to process 0
+Opened pipe from process 2 to process 1
+Opened pipe from process 2 to process 3
+Opened pipe from process 2 to process 4
+Opened pipe from process 2 to process 5
+Opened pipe from process 3 to process 0
+Opened pipe from process 3 to process 1
+Opened pipe from process 3 to process 2
+Opened pipe from process 3 to process 4
+Opened pipe from process 3 to process 5
+Opened pipe from process 4 to process 0
+Opened pipe from process 4 to process 1
+Opened pipe from process 4 to process 2
+Opened pipe from process 4 to process 3
+Opened pipe from process 4 to process 5
+Opened pipe from process 5 to process 0
+Opened pipe from process 5 to process 1
+Opened pipe from process 5 to process 2
+Opened pipe from process 5 to process 3
+Opened pipe from process 5 to process 4
+Closed WRITE pipe from process 0 to process 1 by worker 1
+Closed WRITE pipe from process 0 to process 2 by worker 1
+Closed READ  pipe from process 0 to process 2 by worker 1
+Closed WRITE pipe from process 0 to process 3 by worker 1
+Closed READ  pipe from process 0 to process 3 by worker 1
+Closed WRITE pipe from process 0 to process 4 by worker 1
+Closed READ  pipe from process 0 to process 4 by worker 1
+Closed WRITE pipe from process 0 to process 5 by worker 1
+Closed READ  pipe from process 0 to process 5 by worker 1
+Closed READ  pipe from process 1 to process 0 by worker 1
+Closed READ  pipe from process 1 to process 2 by worker 1
+Closed READ  pipe from process 1 to process 3 by worker 1
+Closed READ  pipe from process 1 to process 4 by worker 1
+Closed READ  pipe from process 1 to process 5 by worker 1
+Closed WRITE pipe from process 2 to process 0 by worker 1
+Closed READ  pipe from process 2 to process 0 by worker 1
+Closed WRITE pipe from process 2 to process 1 by worker 1
+Closed WRITE pipe from process 2 to process 3 by worker 1
+Closed READ  pipe from process 2 to process 3 by worker 1
+Closed WRITE pipe from process 2 to process 4 by worker 1
+Closed READ  pipe from process 2 to process 4 by worker 1
+Closed WRITE pipe from process 2 to process 5 by worker 1
+Closed READ  pipe from process 2 to process 5 by worker 1
+Closed WRITE pipe from process 3 to process 0 by worker 1
+Closed READ  pipe from process 3 to process 0 by worker 1
+Closed WRITE pipe from process 3 to process 1 by worker 1
+Closed WRITE pipe from process 3 to process 2 by worker 1
+Closed READ  pipe from process 3 to process 2 by worker 1
+Closed WRITE pipe from process 3 to process 4 by worker 1
+Closed READ  pipe from process 3 to process 4 by worker 1
+Closed WRITE pipe from process 3 to process 5 by worker 1
+Closed READ  pipe from process 3 to process 5 by worker 1
+Closed WRITE pipe from process 4 to process 0 by worker 1
+Closed READ  pipe from process 4 to process 0 by worker 1
+Closed WRITE pipe from process 4 to process 1 by worker 1
+Closed WRITE pipe from process 4 to process 2 by worker 1
+Closed READ  pipe from process 4 to process 2 by worker 1
+Closed WRITE pipe from process 4 to process 3 by worker 1
+Closed READ  pipe from process 4 to process 3 by worker 1
+Closed WRITE pipe from process 4 to process 5 by worker 1
+Closed READ  pipe from process 4 to process 5 by worker 1
+Closed WRITE pipe from process 5 to process 0 by worker 1
+Closed READ  pipe from process 5 to process 0 by worker 1
+Closed WRITE pipe from process 5 to process 1 by worker 1
+Closed WRITE pipe from process 5 to process 2 by worker 1
+Closed READ  pipe from process 5 to process 2 by worker 1
+Closed WRITE pipe from process 5 to process 3 by worker 1
+Closed READ  pipe from process 5 to process 3 by worker 1
+Closed WRITE pipe from process 5 to process 4 by worker 1
+Closed READ  pipe from process 5 to process 4 by worker 1
+Closed WRITE pipe from process 0 to process 1 by worker 2
+Closed READ  pipe from process 0 to process 1 by worker 2
+Closed WRITE pipe from process 0 to process 2 by worker 2
+Closed WRITE pipe from process 0 to process 3 by worker 2
+Closed READ  pipe from process 0 to process 3 by worker 2
+Closed WRITE pipe from process 0 to process 4 by worker 2
+Closed READ  pipe from process 0 to process 4 by worker 2
+Closed WRITE pipe from process 0 to process 5 by worker 2
+Closed READ  pipe from process 0 to process 5 by worker 2
+Closed WRITE pipe from process 1 to process 0 by worker 2
+Closed READ  pipe from process 1 to process 0 by worker 2
+Closed WRITE pipe from process 1 to process 2 by worker 2
+Closed WRITE pipe from process 1 to process 3 by worker 2
+Closed READ  pipe from process 1 to process 3 by worker 2
+Closed WRITE pipe from process 1 to process 4 by worker 2
+Closed READ  pipe from process 1 to process 4 by worker 2
+Closed WRITE pipe from process 1 to process 5 by worker 2
+Closed READ  pipe from process 1 to process 5 by worker 2
+Closed READ  pipe from process 2 to process 0 by worker 2
+Closed READ  pipe from process 2 to process 1 by worker 2
+Closed READ  pipe from process 2 to process 3 by worker 2
+Closed READ  pipe from process 2 to process 4 by worker 2
+Closed READ  pipe from process 2 to process 5 by worker 2
+Closed WRITE pipe from process 3 to process 0 by worker 2
+Closed READ  pipe from process 3 to process 0 by worker 2
+Closed WRITE pipe from process 3 to process 1 by worker 2
+Closed READ  pipe from process 3 to process 1 by worker 2
+Closed WRITE pipe from process 3 to process 2 by worker 2
+Closed WRITE pipe from process 3 to process 4 by worker 2
+Closed READ  pipe from process 3 to process 4 by worker 2
+Closed WRITE pipe from process 3 to process 5 by worker 2
+Closed READ  pipe from process 3 to process 5 by worker 2
+Closed WRITE pipe from process 4 to process 0 by worker 2
+Closed READ  pipe from process 4 to process 0 by worker 2
+Closed WRITE pipe from process 4 to process 1 by worker 2
+Closed READ  pipe from process 4 to process 1 by worker 2
+Closed WRITE pipe from process 4 to process 2 by worker 2
+Closed WRITE pipe from process 4 to process 3 by worker 2
+Closed READ  pipe from process 4 to process 3 by worker 2
+Closed WRITE pipe from process 4 to process 5 by worker 2
+Closed READ  pipe from process 4 to process 5 by worker 2
+Closed WRITE pipe from process 5 to process 0 by worker 2
+Closed READ  pipe from process 5 to process 0 by worker 2
+Closed WRITE pipe from process 5 to process 1 by worker 2
+Closed READ  pipe from process 5 to process 1 by worker 2
+Closed WRITE pipe from process 5 to process 2 by worker 2
+Closed WRITE pipe from process 5 to process 3 by worker 2
+Closed READ  pipe from process 5 to process 3 by worker 2
+Closed WRITE pipe from process 5 to process 4 by worker 2
+Closed READ  pipe from process 5 to process 4 by worker 2
+Closed WRITE pipe from process 0 to process 1 by worker 3
+Closed READ  pipe from process 0 to process 1 by worker 3
+Closed WRITE pipe from process 0 to process 2 by worker 3
+Closed READ  pipe from process 0 to process 2 by worker 3
+Closed WRITE pipe from process 0 to process 3 by worker 3
+Closed WRITE pipe from process 0 to process 4 by worker 3
+Closed READ  pipe from process 0 to process 4 by worker 3
+Closed WRITE pipe from process 0 to process 5 by worker 3
+Closed READ  pipe from process 0 to process 5 by worker 3
+Closed WRITE pipe from process 1 to process 0 by worker 3
+Closed READ  pipe from process 1 to process 0 by worker 3
+Closed WRITE pipe from process 1 to process 2 by worker 3
+Closed READ  pipe from process 1 to process 2 by worker 3
+Closed WRITE pipe from process 1 to process 3 by worker 3
+Closed WRITE pipe from process 1 to process 4 by worker 3
+Closed READ  pipe from process 1 to process 4 by worker 3
+Closed WRITE pipe from process 1 to process 5 by worker 3
+Closed READ  pipe from process 1 to process 5 by worker 3
+Closed WRITE pipe from process 2 to process 0 by worker 3
+Closed READ  pipe from process 2 to process 0 by worker 3
+Closed WRITE pipe from process 2 to process 1 by worker 3
+Closed READ  pipe from process 2 to process 1 by worker 3
+Closed WRITE pipe from process 2 to process 3 by worker 3
+Closed WRITE pipe from process 2 to process 4 by worker 3
+Closed READ  pipe from process 2 to process 4 by worker 3
+Closed WRITE pipe from process 2 to process 5 by worker 3
+Closed READ  pipe from process 2 to process 5 by worker 3
+Closed READ  pipe from process 3 to process 0 by worker 3
+Closed READ  pipe from process 3 to process 1 by worker 3
+Closed READ  pipe from process 3 to process 2 by worker 3
+Closed READ  pipe from process 3 to process 4 by worker 3
+Closed READ  pipe from process 3 to process 5 by worker 3
+Closed WRITE pipe from process 4 to process 0 by worker 3
+Closed READ  pipe from process 4 to process 0 by worker 3
+Closed WRITE pipe from process 4 to process 1 by worker 3
+Closed READ  pipe from process 4 to process 1 by worker 3
+Closed WRITE pipe from process 4 to process 2 by worker 3
+Closed READ  pipe from process 4 to process 2 by worker 3
+Closed WRITE pipe from process 4 to process 3 by worker 3
+Closed WRITE pipe from process 4 to process 5 by worker 3
+Closed READ  pipe from process 4 to process 5 by worker 3
+Closed WRITE pipe from process 5 to process 0 by worker 3
+Closed READ  pipe from process 5 to process 0 by worker 3
+Closed WRITE pipe from process 5 to process 1 by worker 3
+Closed READ  pipe from process 5 to process 1 by worker 3
+Closed WRITE pipe from process 5 to process 2 by worker 3
+Closed READ  pipe from process 5 to process 2 by worker 3
+Closed WRITE pipe from process 5 to process 3 by worker 3
+Closed WRITE pipe from process 5 to process 4 by worker 3
+Closed READ  pipe from process 5 to process 4 by worker 3
+Closed READ  pipe from process 0 to process 1 by main
+Closed READ  pipe from process 0 to process 2 by main
+Closed READ  pipe from process 0 to process 3 by main
+Closed READ  pipe from process 0 to process 4 by main
+Closed READ  pipe from process 0 to process 5 by main
+Closed WRITE pipe from process 1 to process 0 by main
+Closed WRITE pipe from process 1 to process 2 by main
+Closed READ  pipe from process 1 to process 2 by main
+Closed WRITE pipe from process 1 to process 3 by main
+Closed READ  pipe from process 1 to process 3 by main
+Closed WRITE pipe from process 1 to process 4 by main
+Closed READ  pipe from process 1 to process 4 by main
+Closed WRITE pipe from process 1 to process 5 by main
+Closed READ  pipe from process 1 to process 5 by main
+Closed WRITE pipe from process 2 to process 0 by main
+Closed WRITE pipe from process 2 to process 1 by main
+Closed READ  pipe from process 2 to process 1 by main
+Closed WRITE pipe from process 2 to process 3 by main
+Closed READ  pipe from process 2 to process 3 by main
+Closed WRITE pipe from process 2 to process 4 by main
+Closed READ  pipe from process 2 to process 4 by main
+Closed WRITE pipe from process 2 to process 5 by main
+Closed READ  pipe from process 2 to process 5 by main
+Closed WRITE pipe from process 3 to process 0 by main
+Closed WRITE pipe from process 3 to process 1 by main
+Closed READ  pipe from process 3 to process 1 by main
+Closed WRITE pipe from process 3 to process 2 by main
+Closed READ  pipe from process 3 to process 2 by main
+Closed WRITE pipe from process 3 to process 4 by main
+Closed READ  pipe from process 3 to process 4 by main
+Closed WRITE pipe from process 3 to process 5 by main
+Closed READ  pipe from process 3 to process 5 by main
+Closed WRITE pipe from process 4 to process 0 by main
+Closed WRITE pipe from process 4 to process 1 by main
+Closed READ  pipe from process 4 to process 1 by main
+Closed WRITE pipe from process 4 to process 2 by main
+Closed READ  pipe from process 4 to process 2 by main
+Closed WRITE pipe from process 4 to process 3 by main
+Closed READ  pipe from process 4 to process 3 by main
+Closed WRITE pipe from process 4 to process 5 by main
+Closed READ  pipe from process 4 to process 5 by main
+Closed WRITE pipe from process 5 to process 0 by main
+Closed WRITE pipe from process 5 to process 1 by main
+Closed READ  pipe from process 5 to process 1 by main
+Closed WRITE pipe from process 5 to process 2 by main
+Closed READ  pipe from process 5 to process 2 by main
+Closed WRITE pipe from process 5 to process 3 by main
+Closed READ  pipe from process 5 to process 3 by main
+Closed WRITE pipe from process 5 to process 4 by main
+Closed READ  pipe from process 5 to process 4 by main
+Closed WRITE pipe from process 0 to process 1 by worker 4
+Closed READ  pipe from process 0 to process 1 by worker 4
+Closed WRITE pipe from process 0 to process 2 by worker 4
+Closed READ  pipe from process 0 to process 2 by worker 4
+Closed WRITE pipe from process 0 to process 3 by worker 4
+Closed READ  pipe from process 0 to process 3 by worker 4
+Closed WRITE pipe from process 0 to process 4 by worker 4
+Closed WRITE pipe from process 0 to process 5 by worker 4
+Closed READ  pipe from process 0 to process 5 by worker 4
+Closed WRITE pipe from process 1 to process 0 by worker 4
+Closed READ  pipe from process 1 to process 0 by worker 4
+Closed WRITE pipe from process 1 to process 2 by worker 4
+Closed READ  pipe from process 1 to process 2 by worker 4
+Closed WRITE pipe from process 1 to process 3 by worker 4
+Closed READ  pipe from process 1 to process 3 by worker 4
+Closed WRITE pipe from process 1 to process 4 by worker 4
+Closed WRITE pipe from process 1 to process 5 by worker 4
+Closed READ  pipe from process 1 to process 5 by worker 4
+Closed WRITE pipe from process 2 to process 0 by worker 4
+Closed READ  pipe from process 2 to process 0 by worker 4
+Closed WRITE pipe from process 2 to process 1 by worker 4
+Closed READ  pipe from process 2 to process 1 by worker 4
+Closed WRITE pipe from process 2 to process 3 by worker 4
+Closed READ  pipe from process 2 to process 3 by worker 4
+Closed WRITE pipe from process 2 to process 4 by worker 4
+Closed WRITE pipe from process 2 to process 5 by worker 4
+Closed READ  pipe from process 2 to process 5 by worker 4
+Closed WRITE pipe from process 3 to process 0 by worker 4
+Closed READ  pipe from process 3 to process 0 by worker 4
+Closed WRITE pipe from process 3 to process 1 by worker 4
+Closed READ  pipe from process 3 to process 1 by worker 4
+Closed WRITE pipe from process 3 to process 2 by worker 4
+Closed READ  pipe from process 3 to process 2 by worker 4
+Closed WRITE pipe from process 3 to process 4 by worker 4
+Closed WRITE pipe from process 3 to process 5 by worker 4
+Closed READ  pipe from process 3 to process 5 by worker 4
+Closed READ  pipe from process 4 to process 0 by worker 4
+Closed READ  pipe from process 4 to process 1 by worker 4
+Closed READ  pipe from process 4 to process 2 by worker 4
+Closed READ  pipe from process 4 to process 3 by worker 4
+Closed READ  pipe from process 4 to process 5 by worker 4
+Closed WRITE pipe from process 5 to process 0 by worker 4
+Closed READ  pipe from process 5 to process 0 by worker 4
+Closed WRITE pipe from process 5 to process 1 by worker 4
+Closed READ  pipe from process 5 to process 1 by worker 4
+Closed WRITE pipe from process 5 to process 2 by worker 4
+Closed READ  pipe from process 5 to process 2 by worker 4
+Closed WRITE pipe from process 5 to process 3 by worker 4
+Closed READ  pipe from process 5 to process 3 by worker 4
+Closed WRITE pipe from process 5 to process 4 by worker 4
+Closed WRITE pipe from process 0 to process 1 by worker 5
+Closed READ  pipe from process 0 to process 1 by worker 5
+Closed WRITE pipe from process 0 to process 2 by worker 5
+Closed READ  pipe from process 0 to process 2 by worker 5
+Closed WRITE pipe from process 0 to process 3 by worker 5
+Closed READ  pipe from process 0 to process 3 by worker 5
+Closed WRITE pipe from process 0 to process 4 by worker 5
+Closed READ  pipe from process 0 to process 4 by worker 5
+Closed WRITE pipe from process 0 to process 5 by worker 5
+Closed WRITE pipe from process 1 to process 0 by worker 5
+Closed READ  pipe from process 1 to process 0 by worker 5
+Closed WRITE pipe from process 1 to process 2 by worker 5
+Closed READ  pipe from process 1 to process 2 by worker 5
+Closed WRITE pipe from process 1 to process 3 by worker 5
+Closed READ  pipe from process 1 to process 3 by worker 5
+Closed WRITE pipe from process 1 to process 4 by worker 5
+Closed READ  pipe from process 1 to process 4 by worker 5
+Closed WRITE pipe from process 1 to process 5 by worker 5
+Closed WRITE pipe from process 2 to process 0 by worker 5
+Closed READ  pipe from process 2 to process 0 by worker 5
+Closed WRITE pipe from process 2 to process 1 by worker 5
+Closed READ  pipe from process 2 to process 1 by worker 5
+Closed WRITE pipe from process 2 to process 3 by worker 5
+Closed READ  pipe from process 2 to process 3 by worker 5
+Closed WRITE pipe from process 2 to process 4 by worker 5
+Closed READ  pipe from process 2 to process 4 by worker 5
+Closed WRITE pipe from process 2 to process 5 by worker 5
+Closed WRITE pipe from process 3 to process 0 by worker 5
+Closed READ  pipe from process 3 to process 0 by worker 5
+Closed WRITE pipe from process 3 to process 1 by worker 5
+Closed READ  pipe from process 3 to process 1 by worker 5
+Closed WRITE pipe from process 3 to process 2 by worker 5
+Closed READ  pipe from process 3 to process 2 by worker 5
+Closed WRITE pipe from process 3 to process 4 by worker 5
+Closed READ  pipe from process 3 to process 4 by worker 5
+Closed WRITE pipe from process 3 to process 5 by worker 5
+Closed WRITE pipe from process 4 to process 0 by worker 5
+Closed READ  pipe from process 4 to process 0 by worker 5
+Closed WRITE pipe from process 4 to process 1 by worker 5
+Closed READ  pipe from process 4 to process 1 by worker 5
+Closed WRITE pipe from process 4 to process 2 by worker 5
+Closed READ  pipe from process 4 to process 2 by worker 5
+Closed WRITE pipe from process 4 to process 3 by worker 5
+Closed READ  pipe from process 4 to process 3 by worker 5
+Closed WRITE pipe from process 4 to process 5 by worker 5
+Closed READ  pipe from process 5 to process 0 by worker 5
+Closed READ  pipe from process 5 to process 1 by worker 5
+Closed READ  pipe from process 5 to process 2 by worker 5
+Closed READ  pipe from process 5 to process 3 by worker 5
+Closed READ  pipe from process 5 to process 4 by worker 5
+Opened pipe from process 0 to process 1
+Opened pipe from process 0 to process 2
+Opened pipe from process 0 to process 3
+Opened pipe from process 0 to process 4
+Opened pipe from process 0 to process 5
+Opened pipe from process 0 to process 6
+Opened pipe from process 1 to process 0
+Opened pipe from process 1 to process 2
+Opened pipe from process 1 to process 3
+Opened pipe from process 1 to process 4
+Opened pipe from process 1 to process 5
+Opened pipe from process 1 to process 6
+Opened pipe from process 2 to process 0
+Opened pipe from process 2 to process 1
+Opened pipe from process 2 to process 3
+Opened pipe from process 2 to process 4
+Opened pipe from process 2 to process 5
+Opened pipe from process 2 to process 6
+Opened pipe from process 3 to process 0
+Opened pipe from process 3 to process 1
+Opened pipe from process 3 to process 2
+Opened pipe from process 3 to process 4
+Opened pipe from process 3 to process 5
+Opened pipe from process 3 to process 6
+Opened pipe from process 4 to process 0
+Opened pipe from process 4 to process 1
+Opened pipe from process 4 to process 2
+Opened pipe from process 4 to process 3
+Opened pipe from process 4 to process 5
+Opened pipe from process 4 to process 6
+Opened pipe from process 5 to process 0
+Opened pipe from process 5 to process 1
+Opened pipe from process 5 to process 2
+Opened pipe from process 5 to process 3
+Opened pipe from process 5 to process 4
+Opened pipe from process 5 to process 6
+Opened pipe from process 6 to process 0
+Opened pipe from process 6 to process 1
+Opened pipe from process 6 to process 2
+Opened pipe from process 6 to process 3
+Opened pipe from process 6 to process 4
+Opened pipe from process 6 to process 5
+Closed WRITE pipe from process 0 to process 1 by worker 2
+Closed READ  pipe from process 0 to process 1 by worker 2
+Closed WRITE pipe from process 0 to process 2 by worker 2
+Closed WRITE pipe from process 0 to process 3 by worker 2
+Closed READ  pipe from process 0 to process 3 by worker 2
+Closed WRITE pipe from process 0 to process 4 by worker 2
+Closed READ  pipe from process 0 to process 4 by worker 2
+Closed WRITE pipe from process 0 to process 5 by worker 2
+Closed READ  pipe from process 0 to process 5 by worker 2
+Closed WRITE pipe from process 0 to process 6 by worker 2
+Closed READ  pipe from process 0 to process 6 by worker 2
+Closed WRITE pipe from process 1 to process 0 by worker 2
+Closed READ  pipe from process 1 to process 0 by worker 2
+Closed WRITE pipe from process 1 to process 2 by worker 2
+Closed WRITE pipe from process 1 to process 3 by worker 2
+Closed READ  pipe from process 1 to process 3 by worker 2
+Closed WRITE pipe from process 1 to process 4 by worker 2
+Closed READ  pipe from process 1 to process 4 by worker 2
+Closed WRITE pipe from process 1 to process 5 by worker 2
+Closed READ  pipe from process 1 to process 5 by worker 2
+Closed WRITE pipe from process 1 to process 6 by worker 2
+Closed READ  pipe from process 1 to process 6 by worker 2
+Closed READ  pipe from process 2 to process 0 by worker 2
+Closed READ  pipe from process 2 to process 1 by worker 2
+Closed READ  pipe from process 2 to process 3 by worker 2
+Closed READ  pipe from process 2 to process 4 by worker 2
+Closed READ  pipe from process 2 to process 5 by worker 2
+Closed READ  pipe from process 2 to process 6 by worker 2
+Closed WRITE pipe from process 3 to process 0 by worker 2
+Closed READ  pipe from process 3 to process 0 by worker 2
+Closed WRITE pipe from process 3 to process 1 by worker 2
+Closed READ  pipe from process 3 to process 1 by worker 2
+Closed WRITE pipe from process 3 to process 2 by worker 2
+Closed WRITE pipe from process 3 to process 4 by worker 2
+Closed READ  pipe from process 3 to process 4 by worker 2
+Closed WRITE pipe from process 3 to process 5 by worker 2
+Closed READ  pipe from process 3 to process 5 by worker 2
+Closed WRITE pipe from process 3 to process 6 by worker 2
+Closed READ  pipe from process 3 to process 6 by worker 2
+Closed WRITE pipe from process 4 to process 0 by worker 2
+Closed READ  pipe from process 4 to process 0 by worker 2
+Closed WRITE pipe from process 4 to process 1 by worker 2
+Closed READ  pipe from process 4 to process 1 by worker 2
+Closed WRITE pipe from process 4 to process 2 by worker 2
+Closed WRITE pipe from process 4 to process 3 by worker 2
+Closed READ  pipe from process 4 to process 3 by worker 2
+Closed WRITE pipe from process 4 to process 5 by worker 2
+Closed READ  pipe from process 4 to process 5 by worker 2
+Closed WRITE pipe from process 4 to process 6 by worker 2
+Closed READ  pipe from process 4 to process 6 by worker 2
+Closed WRITE pipe from process 5 to process 0 by worker 2
+Closed READ  pipe from process 5 to process 0 by worker 2
+Closed WRITE pipe from process 5 to process 1 by worker 2
+Closed READ  pipe from process 5 to process 1 by worker 2
+Closed WRITE pipe from process 5 to process 2 by worker 2
+Closed WRITE pipe from process 5 to process 3 by worker 2
+Closed READ  pipe from process 5 to process 3 by worker 2
+Closed WRITE pipe from process 5 to process 4 by worker 2
+Closed READ  pipe from process 5 to process 4 by worker 2
+Closed WRITE pipe from process 5 to process 6 by worker 2
+Closed READ  pipe from process 5 to process 6 by worker 2
+Closed WRITE pipe from process 6 to process 0 by worker 2
+Closed READ  pipe from process 6 to process 0 by worker 2
+Closed WRITE pipe from process 6 to process 1 by worker 2
+Closed READ  pipe from process 6 to process 1 by worker 2
+Closed WRITE pipe from process 6 to process 2 by worker 2
+Closed WRITE pipe from process 6 to process 3 by worker 2
+Closed READ  pipe from process 6 to process 3 by worker 2
+Closed WRITE pipe from process 6 to process 4 by worker 2
+Closed READ  pipe from process 6 to process 4 by worker 2
+Closed WRITE pipe from process 6 to Closed WRITE pipe from process 0 to process 1 by worker 3
+Closed READ  pipe from process 0 to process 1 by worker 3
+Closed WRITE pipe from process 0 to process 2 by worker 3
+Closed READ  pipe from process 0 to process 2 by worker 3
+Closed WRITE pipe from process 0 to process 3 by worker 3
+Closed WRITE pipe from process 0 to process 4 by worker 3
+Closed READ  pipe from process 0 to process 4 by worker 3
+Closed WRITE pipe from process 0 to process 5 by worker 3
+Closed READ  pipe from process 0 to process 5 by worker 3
+Closed WRITE pipe from process 0 to process 6 by worker 3
+Closed READ  pipe from process 0 to process 6 by worker 3
+Closed WRITE pipe from process 1 to process 0 by worker 3
+Closed READ  pipe from process 1 to process 0 by worker 3
+Closed WRITE pipe from process 1 to process 2 by worker 3
+Closed READ  pipe from process 1 to process 2 by worker 3
+Closed WRITE pipe from process 1 to process 3 by worker 3
+Closed WRITE pipe from process 1 to process 4 by worker 3
+Closed READ  pipe from process 1 to process 4 by worker 3
+Closed WRITE pipe from process 1 to process 5 by worker 3
+Closed READ  pipe from process 1 to process 5 by worker 3
+Closed WRITE pipe from process 1 to process 6 by worker 3
+Closed READ  pipe from process 1 to process 6 by worker 3
+Closed WRITE pipe from process 2 to process 0 by worker 3
+Closed READ  pipe from process 2 to process 0 by worker 3
+Closed WRITE pipe from process 2 to process 1 by worker 3
+Closed READ  pipe from process 2 to process 1 by worker 3
+Closed WRITE pipe from process 2 to process 3 by worker 3
+Closed WRITE pipe from process 2 to process 4 by worker 3
+Closed READ  pipe from process 2 to process 4 by worker 3
+Closed WRITE pipe from process 2 to process 5 by worker 3
+Closed READ  pipe from process 2 to process 5 by worker 3
+Closed WRITE pipe from process 2 to process 6 by worker 3
+Closed READ  pipe from process 2 to process 6 by worker 3
+Closed READ  pipe from process 3 to process 0 by worker 3
+Closed READ  pipe from process 3 to process 1 by worker 3
+Closed READ  pipe from process 3 to process 2 by worker 3
+Closed READ  pipe from process 3 to process 4 by worker 3
+Closed READ  pipe from process 3 to process 5 by worker 3
+Closed READ  pipe from process 3 to process 6 by worker 3
+Closed WRITE pipe from process 4 to process 0 by worker 3
+Closed READ  pipe from process 4 to process 0 by worker 3
+Closed WRITE pipe from process 4 to process 1 by worker 3
+Closed READ  pipe from process 4 to process 1 by worker 3
+Closed WRITE pipe from process 4 to process 2 by worker 3
+Closed READ  pipe from process 4 to process 2 by worker 3
+Closed WRITE pipe from process 4 to process 3 by worker 3
+Closed WRITE pipe from process 4 to process 5 by worker 3
+Closed READ  pipe from process 4 to process 5 by worker 3
+Closed WRITE pipe from process 4 to process 6 by worker 3
+Closed READ  pipe from process 4 to process 6 by worker 3
+Closed WRITE pipe from process 5 to process 0 by worker 3
+Closed READ  pipe from process 5 to process 0 by worker 3
+Closed WRITE pipe from process 5 to process 1 by worker 3
+Closed READ  pipe from process 5 to process 1 by worker 3
+Closed WRITE pipe from process 5 to process 2 by worker 3
+Closed READ  pipe from process 5 to process 2 by worker 3
+Closed WRITE pipe from process 5 to process 3 by worker 3
+Closed WRITE pipe from process 5 to process 4 by worker 3
+Closed READ  pipe from process 5 to process 4 by worker 3
+Closed WRITE pipe from process 5 to process 6 by worker 3
+Closed READ  pipe from process 5 to process 6 by worker 3
+Closed WRITE pipe from process 6 to process 0 by worker 3
+Closed READ  pipe from process 6 to process 0 by worker 3
+Closed WRITE pipe from process 6 to process 1 by worker 3
+Closed READ  pipe from process 6 to process 1 by worker 3
+Closed WRITE pipe from process 6 to process 2 by worker 3
+Closed READ  pipe from process 6 to process 2 by worker 3
+Closed WRITE pipe from process 6 to process 3 by worker 3
+Closed WRITE pipe from process 6 to process 4 by worker 3
+Closed READ  pipe from process 6 to process 4 by worker 3
+Closed WRITE pipe from process 6 to process 5 by worker 2
+Closed READ  pipe from process 6 to process 5 by worker 2
+process 5 by worker 3
+Closed READ  pipe from process 6 to process 5 by worker 3
+Closed READ  pipe from process 0 to process 1 by main
+Closed READ  pipe from process 0 to process 2 by main
+Closed READ  pipe from process 0 to process 3 by main
+Closed READ  pipe from process 0 to process 4 by main
+Closed READ  pipe from process 0 to process 5 by main
+Closed READ  pipe from process 0 to process 6 by main
+Closed WRITE pipe from process 1 to process 0 by main
+Closed WRITE pipe from process 1 to process 2 by main
+Closed READ  pipe from process 1 to process 2 by main
+Closed WRITE pipe from process 1 to process 3 by main
+Closed READ  pipe from process 1 to process 3 by main
+Closed WRITE pipe from process 1 to process 4 by main
+Closed READ  pipe from process 1 to process 4 by main
+Closed WRITE pipe from process 1 to process 5 by main
+Closed READ  pipe from process 1 to process 5 by main
+Closed WRITE pipe from process 1 to process 6 by main
+Closed READ  pipe from process 1 to process 6 by main
+Closed WRITE pipe from process 2 to process 0 by main
+Closed WRITE pipe from process 2 to process 1 by main
+Closed READ  pipe from process 2 to process 1 by main
+Closed WRITE pipe from process 2 to process 3 by main
+Closed READ  pipe from process 2 to process 3 by main
+Closed WRITE pipe from process 2 to process 4 by main
+Closed READ  pipe from process 2 to process 4 by main
+Closed WRITE pipe from process 2 to process 5 by main
+Closed READ  pipe from process 2 to process 5 by main
+Closed WRITE pipe from process 2 to process 6 by main
+Closed READ  pipe from process 2 to process 6 by main
+Closed WRITE pipe from process 3 to process 0 by main
+Closed WRITE pipe from process 3 to process 1 by main
+Closed READ  pipe from process 3 to process 1 by main
+Closed WRITE pipe from process 3 to process 2 by main
+Closed READ  pipe from process 3 to process 2 by main
+Closed WRITE pipe from process 3 to process 4 by main
+Closed READ  pipe from process 3 to process 4 by main
+Closed WRITE pipe from process 3 to process 5 by main
+Closed READ  pipe from process 3 to process 5 by main
+Closed WRITE pipe from process 3 to process 6 by main
+Closed READ  pipe from process 3 to process 6 by main
+Closed WRITE pipe from process 4 to process 0 by main
+Closed WRITE pipe from process 4 to process 1 by main
+Closed READ  pipe from process 4 to process 1 by main
+Closed WRITE pipe from process 4 to process 2 by main
+Closed READ  pipe from process 4 to process 2 by main
+Closed WRITE pipe from process 4 to process 3 by main
+Closed READ  pipe from process 4 to process 3 by main
+Closed WRITE pipe from process 4 to process 5 by main
+Closed READ  pipe from process 4 to process 5 by main
+Closed WRITE pipe from process 4 to process 6 by main
+Closed READ  pipe from process 4 to process 6 by main
+Closed WRITE pipe from process 5 to process 0 by main
+Closed WRITE pipe from process 5 to process 1 by main
+Closed READ  pipe from process 5 to process 1 by main
+Closed WRITE pipe from process 5 to process 2 by main
+Closed READ  pipe from process 5 to process 2 by main
+Closed WRITE pipe from process 5 to process 3 by main
+Closed READ  pipe from process 5 to process 3 by main
+Closed WRITE pipe from process 5 to process 4 by main
+Closed READ  pipe from process 5 to process 4 by main
+Closed WRITE pipe from process 5 to process 6 by main
+Closed READ  pipe from process 5 to process 6 by main
+Closed WRITE pipe from process 6 to process 0 by main
+Closed WRITE pipe from process 6 to process 1 by main
+Closed READ  pipe from process 6 to process 1 by main
+Closed WRITE pipe from process 6 to process 2 by main
+Closed READ  pipe from process 6 to process 2 by main
+Closed WRITE pipe from process 6 to process 3 by main
+Closed READ  pipe from process 6 to process 3 by main
+Closed WRITE pipe from process 6 to process 4 by main
+Closed READ  pipe from process 6 to process 4 by main
+Closed WRITE pipe from process 6 to process 5 by main
+Closed READ  pipe from process 6 to process 5 by main
+Closed WRITE pipe from process 0 to process 1 by worker 1
+Closed WRITE pipe from process 0 to process 2 by worker 1
+Closed READ  pipe from process 0 to process 2 by worker 1
+Closed WRITE pipe from process 0 to process 3 by worker 1
+Closed READ  pipe from process 0 to process 3 by worker 1
+Closed WRITE pipe from process 0 to process 4 by worker 1
+Closed READ  pipe from process 0 to process 4 by worker 1
+Closed WRITE pipe from process 0 to process 5 by worker 1
+Closed READ  pipe from process 0 to process 5 by worker 1
+Closed WRITE pipe from process 0 to process 6 by worker 1
+Closed READ  pipe from process 0 to process 6 by worker 1
+Closed READ  pipe from process 1 to process 0 by worker 1
+Closed READ  pipe from process 1 to process 2 by worker 1
+Closed READ  pipe from process 1 to process 3 by worker 1
+Closed READ  pipe from process 1 to process 4 by worker 1
+Closed READ  pipe from process 1 to process 5 by worker 1
+Closed READ  pipe from process 1 to process 6 by worker 1
+Closed WRITE pipe from process 2 to process 0 by worker 1
+Closed READ  pipe from process 2 to process 0 by worker 1
+Closed WRITE pipe from process 2 to process 1 by worker 1
+Closed WRITE pipe from process 2 to process 3 by worker 1
+Closed READ  pipe from process 2 to process 3 by worker 1
+Closed WRITE pipe from process 2 to process 4 by worker 1
+Closed READ  pipe from process 2 to process 4 by worker 1
+Closed WRITE pipe from process 2 to process 5 by worker 1
+Closed READ  pipe from process 2 to process 5 by worker 1
+Closed WRITE pipe from process 2 to process 6 by worker 1
+Closed READ  pipe from process 2 to process 6 by worker 1
+Closed WRITE pipe from process 3 to process 0 by worker 1
+Closed READ  pipe from process 3 to process 0 by worker 1
+Closed WRITE pipe from process 3 to process 1 by worker 1
+Closed WRITE pipe from process 3 to process 2 by worker 1
+Closed READ  pipe from process 3 to process 2 by worker 1
+Closed WRITE pipe from process 3 to process 4 by worker 1
+Closed READ  pipe from process 3 to process 4 by worker 1
+Closed WRITE pipe from process 3 to process 5 by worker 1
+Closed READ  pipe from process 3 to process 5 by worker 1
+Closed WRITE pipe from process 3 to process 6 by worker 1
+Closed READ  pipe from process 3 to process 6 by worker 1
+Closed WRITE pipe from process 4 to process 0 by worker 1
+Closed READ  pipe from process 4 to process 0 by worker 1
+Closed WRITE pipe from process 4 to process 1 by worker 1
+Closed WRITE pipe from process 4 to process 2 by worker 1
+Closed READ  pipe from process 4 to process 2 by worker 1
+Closed WRITE pipe from process 4 to process 3 by worker 1
+Closed READ  pipe from process 4 to process 3 by worker 1
+Closed WRITE pipe from process 4 to process 5 by worker 1
+Closed READ  pipe from process 4 to process 5 by worker 1
+Closed WRITE pipe from process 4 to process 6 by worker 1
+Closed READ  pipe from process 4 to process 6 by worker 1
+Closed WRITE pipe from process 5 to process 0 by worker 1
+Closed READ  pipe from process 5 to process 0 by worker 1
+Closed WRITE pipe from process 5 to process 1 by worker 1
+Closed WRITE pipe from process 5 to process 2 by worker 1
+Closed READ  pipe from process 5 to process 2 by worker 1
+Closed WRITE pipe from process 5 to process 3 by worker 1
+Closed READ  pipe from process 5 to process 3 by worker 1
+Closed WRITE pipe from process 5 to process 4 by worker 1
+Closed READ  pipe from process 5 to process 4 by worker 1
+Closed WRITE pipe from process 5 to process 6 by worker 1
+Closed READ  pipe from process 5 to process 6 by worker 1
+Closed WRITE pipe from process 6 to process 0 by worker 1
+Closed READ  pipe from process 6 to process 0 by worker 1
+Closed WRITE pipe from process 6 to process 1 by worker 1
+Closed WRITE pipe from process 6 to process 2 by worker 1
+Closed READ  pipe from process 6 to process 2 by worker 1
+Closed WRITE pipe from process 6 to process 3 by worker 1
+Closed READ  pipe from process 6 to process 3 by worker 1
+Closed WRITE pipe from process 6 to process 4 by worker 1
+Closed READ  pipe from process 6 to process 4 by worker 1
+Closed WRITE pipe from process 6 to Closed WRITE pipe from process 0 to process 1 by worker 5
+Closed READ  pipe from process 0 to process 1 by worker 5
+Closed WRITE pipe from process 0 to process 2 by worker 5
+Closed READ  pipe from process 0 to process 2 by worker 5
+Closed WRITE pipe from process 0 to process 3 by worker 5
+Closed READ  pipe from process 0 to process 3 by worker 5
+Closed WRITE pipe from process 0 to process 4 by worker 5
+Closed READ  pipe from process 0 to process 4 by worker 5
+Closed WRITE pipe from process 0 to process 5 by worker 5
+Closed WRITE pipe from process 0 to process 6 by worker 5
+Closed READ  pipe from process 0 to process 6 by worker 5
+Closed WRITE pipe from process 1 to process 0 by worker 5
+Closed READ  pipe from process 1 to process 0 by worker 5
+Closed WRITE pipe from process 1 to process 2 by worker 5
+Closed READ  pipe from process 1 to process 2 by worker 5
+Closed WRITE pipe from process 1 to process 3 by worker 5
+Closed READ  pipe from process 1 to process 3 by worker 5
+Closed WRITE pipe from process 1 to process 4 by worker 5
+Closed READ  pipe from process 1 to process 4 by worker 5
+Closed WRITE pipe from process 1 to process 5 by worker 5
+Closed WRITE pipe from process 1 to process 6 by worker 5
+Closed READ  pipe from process 1 to process 6 by worker 5
+Closed WRITE pipe from process 2 to process 0 by worker 5
+Closed READ  pipe from process 2 to process 0 by worker 5
+Closed WRITE pipe from process 2 to process 1 by worker 5
+Closed READ  pipe from process 2 to process 1 by worker 5
+Closed WRITE pipe from process 2 to process 3 by worker 5
+Closed READ  pipe from process 2 to process 3 by worker 5
+Closed WRITE pipe from process 2 to process 4 by worker 5
+Closed READ  pipe from process 2 to process 4 by worker 5
+Closed WRITE pipe from process 2 to process 5 by worker 5
+Closed WRITE pipe from process 2 to process 6 by worker 5
+Closed READ  pipe from process 2 to process 6 by worker 5
+Closed WRITE pipe from process 3 to process 0 by worker 5
+Closed READ  pipe from process 3 to process 0 by worker 5
+Closed WRITE pipe from process 3 to process 1 by worker 5
+Closed READ  pipe from process 3 to process 1 by worker 5
+Closed WRITE pipe from process 3 to process 2 by worker 5
+Closed READ  pipe from process 3 to process 2 by worker 5
+Closed WRITE pipe from process 3 to process 4 by worker 5
+Closed READ  pipe from process 3 to process 4 by worker 5
+Closed WRITE pipe from process 3 to process 5 by worker 5
+Closed WRITE pipe from process 3 to process 6 by worker 5
+Closed READ  pipe from process 3 to process 6 by worker 5
+Closed WRITE pipe from process 4 to process 0 by worker 5
+Closed READ  pipe from process 4 to process 0 by worker 5
+Closed WRITE pipe from process 4 to process 1 by worker 5
+Closed READ  pipe from process 4 to process 1 by worker 5
+Closed WRITE pipe from process 4 to process 2 by worker 5
+Closed READ  pipe from process 4 to process 2 by worker 5
+Closed WRITE pipe from process 4 to process 3 by worker 5
+Closed READ  pipe from process 4 to process 3 by worker 5
+Closed WRITE pipe from process 4 to process 5 by worker 5
+Closed WRITE pipe from process 4 to process 6 by worker 5
+Closed READ  pipe from process 4 to process 6 by worker 5
+Closed READ  pipe from process 5 to process 0 by worker 5
+Closed READ  pipe from process 5 to process 1 by worker 5
+Closed READ  pipe from process 5 to process 2 by worker 5
+Closed READ  pipe from process 5 to process 3 by worker 5
+Closed READ  pipe from process 5 to process 4 by worker 5
+Closed READ  pipe from process 5 to process 6 by worker 5
+Closed WRITE pipe from process 6 to process 0 by worker 5
+Closed READ  pipe from process 6 to process 0 by worker 5
+Closed WRITE pipe from process 6 to process 1 by worker 5
+Closed READ  pipe from process 6 to process 1 by worker 5
+Closed WRITE pipe from process 6 to process 2 by worker 5
+Closed READ  pipe from process 6 to process 2 by worker 5
+Closed WRITE pipe from process 6 to process 3 by worker 5
+Closed READ  pipe from process 6 to process 3 by worker 5
+Closed WRITE pipe from process 6 to process 4 by worker 5
+Closed READ  pipe from process 6 to process 5 by worker 1
+Closed READ  pipe from process 6 to process 5 by worker 1
+process 4 by worker 5
+Closed WRITE pipe from process 6 to process 5 by worker 5
+Closed WRITE pipe from process 0 to process 1 by worker 6
+Closed READ  pipe from process 0 to process 1 by worker 6
+Closed WRITE pipe from process 0 to process 2 by worker 6
+Closed READ  pipe from process 0 to process 2 by worker 6
+Closed WRITE pipe from process 0 to process 3 by worker 6
+Closed READ  pipe from process 0 to process 3 by worker 6
+Closed WRITE pipe from process 0 to process 4 by worker 6
+Closed READ  pipe from process 0 to process 4 by worker 6
+Closed WRITE pipe from process 0 to process 5 by worker 6
+Closed READ  pipe from process 0 to process 5 by worker 6
+Closed WRITE pipe from process 0 to process 6 by worker 6
+Closed WRITE pipe from process 1 to process 0 by worker 6
+Closed READ  pipe from process 1 to process 0 by worker 6
+Closed WRITE pipe from process 1 to process 2 by worker 6
+Closed READ  pipe from process 1 to process 2 by worker 6
+Closed WRITE pipe from process 1 to process 3 by worker 6
+Closed READ  pipe from process 1 to process 3 by worker 6
+Closed WRITE pipe from process 1 to process 4 by worker 6
+Closed READ  pipe from process 1 to process 4 by worker 6
+Closed WRITE pipe from process 1 to process 5 by worker 6
+Closed READ  pipe from process 1 to process 5 by worker 6
+Closed WRITE pipe from process 1 to process 6 by worker 6
+Closed WRITE pipe from process 2 to process 0 by worker 6
+Closed READ  pipe from process 2 to process 0 by worker 6
+Closed WRITE pipe from process 2 to process 1 by worker 6
+Closed READ  pipe from process 2 to process 1 by worker 6
+Closed WRITE pipe from process 2 to process 3 by worker 6
+Closed READ  pipe from process 2 to process 3 by worker 6
+Closed WRITE pipe from process 2 to process 4 by worker 6
+Closed READ  pipe from process 2 to process 4 by worker 6
+Closed WRITE pipe from process 2 to process 5 by worker 6
+Closed READ  pipe from process 2 to process 5 by worker 6
+Closed WRITE pipe from process 2 to process 6 by worker 6
+Closed WRITE pipe from process 3 to process 0 by worker 6
+Closed READ  pipe from process 3 to process 0 by worker 6
+Closed WRITE pipe from process 3 to process 1 by worker 6
+Closed READ  pipe from process 3 to process 1 by worker 6
+Closed WRITE pipe from process 3 to process 2 by worker 6
+Closed READ  pipe from process 3 to process 2 by worker 6
+Closed WRITE pipe from process 3 to process 4 by worker 6
+Closed READ  pipe from process 3 to process 4 by worker 6
+Closed WRITE pipe from process 3 to process 5 by worker 6
+Closed READ  pipe from process 3 to process 5 by worker 6
+Closed WRITE pipe from process 3 to process 6 by worker 6
+Closed WRITE pipe from process 4 to process 0 by worker 6
+Closed READ  pipe from process 4 to process 0 by worker 6
+Closed WRITE pipe from process 4 to process 1 by worker 6
+Closed READ  pipe from process 4 to process 1 by worker 6
+Closed WRITE pipe from process 4 to process 2 by worker 6
+Closed READ  pipe from process 4 to process 2 by worker 6
+Closed WRITE pipe from process 4 to process 3 by worker 6
+Closed READ  pipe from process 4 to process 3 by worker 6
+Closed WRITE pipe from process 4 to process 5 by worker 6
+Closed READ  pipe from process 4 to process 5 by worker 6
+Closed WRITE pipe from process 4 to process 6 by worker 6
+Closed WRITE pipe from process 5 to process 0 by worker 6
+Closed READ  pipe from process 5 to process 0 by worker 6
+Closed WRITE pipe from process 5 to process 1 by worker 6
+Closed READ  pipe from process 5 to process 1 by worker 6
+Closed WRITE pipe from process 5 to process 2 by worker 6
+Closed READ  pipe from process 5 to process 2 by worker 6
+Closed WRITE pipe from process 5 to process 3 by worker 6
+Closed READ  pipe from process 5 to process 3 by worker 6
+Closed WRITE pipe from process 5 to process 4 by worker 6
+Closed READ  pipe from process 5 to process 4 by worker 6
+Closed WRITE pipe from process 5 to process 6 by worker 6
+Closed READ  pipe from process 6 to process 0 by worker 6
+Closed READ  pipe from process 6 to process 1 by worker 6
+Closed READ  pipe from process 6 to process 2 by worker 6
+Closed READ  pipe from process 6 to process 3 by worker 6
+Closed READ  pipe from process 6 to process 4 by worker 6
+Closed READ  pipe from process 6 to process 5 by worker 6
+Closed WRITE pipe from process 0 to process 1 by worker 4
+Closed READ  pipe from process 0 to process 1 by worker 4
+Closed WRITE pipe from process 0 to process 2 by worker 4
+Closed READ  pipe from process 0 to process 2 by worker 4
+Closed WRITE pipe from process 0 to process 3 by worker 4
+Closed READ  pipe from process 0 to process 3 by worker 4
+Closed WRITE pipe from process 0 to process 4 by worker 4
+Closed WRITE pipe from process 0 to process 5 by worker 4
+Closed READ  pipe from process 0 to process 5 by worker 4
+Closed WRITE pipe from process 0 to process 6 by worker 4
+Closed READ  pipe from process 0 to process 6 by worker 4
+Closed WRITE pipe from process 1 to process 0 by worker 4
+Closed READ  pipe from process 1 to process 0 by worker 4
+Closed WRITE pipe from process 1 to process 2 by worker 4
+Closed READ  pipe from process 1 to process 2 by worker 4
+Closed WRITE pipe from process 1 to process 3 by worker 4
+Closed READ  pipe from process 1 to process 3 by worker 4
+Closed WRITE pipe from process 1 to process 4 by worker 4
+Closed WRITE pipe from process 1 to process 5 by worker 4
+Closed READ  pipe from process 1 to process 5 by worker 4
+Closed WRITE pipe from process 1 to process 6 by worker 4
+Closed READ  pipe from process 1 to process 6 by worker 4
+Closed WRITE pipe from process 2 to process 0 by worker 4
+Closed READ  pipe from process 2 to process 0 by worker 4
+Closed WRITE pipe from process 2 to process 1 by worker 4
+Closed READ  pipe from process 2 to process 1 by worker 4
+Closed WRITE pipe from process 2 to process 3 by worker 4
+Closed READ  pipe from process 2 to process 3 by worker 4
+Closed WRITE pipe from process 2 to process 4 by worker 4
+Closed WRITE pipe from process 2 to process 5 by worker 4
+Closed READ  pipe from process 2 to process 5 by worker 4
+Closed WRITE pipe from process 2 to process 6 by worker 4
+Closed READ  pipe from process 2 to process 6 by worker 4
+Closed WRITE pipe from process 3 to process 0 by worker 4
+Closed READ  pipe from process 3 to process 0 by worker 4
+Closed WRITE pipe from process 3 to process 1 by worker 4
+Closed READ  pipe from process 3 to process 1 by worker 4
+Closed WRITE pipe from process 3 to process 2 by worker 4
+Closed READ  pipe from process 3 to process 2 by worker 4
+Closed WRITE pipe from process 3 to process 4 by worker 4
+Closed WRITE pipe from process 3 to process 5 by worker 4
+Closed READ  pipe from process 3 to process 5 by worker 4
+Closed WRITE pipe from process 3 to process 6 by worker 4
+Closed READ  pipe from process 3 to process 6 by worker 4
+Closed READ  pipe from process 4 to process 0 by worker 4
+Closed READ  pipe from process 4 to process 1 by worker 4
+Closed READ  pipe from process 4 to process 2 by worker 4
+Closed READ  pipe from process 4 to process 3 by worker 4
+Closed READ  pipe from process 4 to process 5 by worker 4
+Closed READ  pipe from process 4 to process 6 by worker 4
+Closed WRITE pipe from process 5 to process 0 by worker 4
+Closed READ  pipe from process 5 to process 0 by worker 4
+Closed WRITE pipe from process 5 to process 1 by worker 4
+Closed READ  pipe from process 5 to process 1 by worker 4
+Closed WRITE pipe from process 5 to process 2 by worker 4
+Closed READ  pipe from process 5 to process 2 by worker 4
+Closed WRITE pipe from process 5 to process 3 by worker 4
+Closed READ  pipe from process 5 to process 3 by worker 4
+Closed WRITE pipe from process 5 to process 4 by worker 4
+Closed WRITE pipe from process 5 to process 6 by worker 4
+Closed READ  pipe from process 5 to process 6 by worker 4
+Closed WRITE pipe from process 6 to process 0 by worker 4
+Closed READ  pipe from process 6 to process 0 by worker 4
+Closed WRITE pipe from process 6 to process 1 by worker 4
+Closed READ  pipe from process 6 to process 1 by worker 4
+Closed WRITE pipe from process 6 to process 2 by worker 4
+Closed READ  pipe from process 6 to process 2 by worker 4
+Closed WRITE pipe from process 6 to process 3 by worker 4
+Closed READ  pipe from process 6 to process 3 by worker 4
+Closed WRITE pipe from process 6 to process 4 by worker 4
+Closed WRITE pipe from process 6 to process 5 by worker 4
+Closed READ  pipe from process 6 to process 5 by worker 4
+Opened pipe from process 0 to process 1
+Opened pipe from process 0 to process 2
+Opened pipe from process 1 to process 0
+Opened pipe from process 1 to process 2
+Opened pipe from process 2 to process 0
+Opened pipe from process 2 to process 1
+Closed READ  pipe from process 0 to process 1 by main
+Closed READ  pipe from process 0 to process 2 by main
+Closed WRITE pipe from process 1 to process 0 by main
+Closed WRITE pipe from process 1 to process 2 by main
+Closed READ  pipe from process 1 to process 2 by main
+Closed WRITE pipe from process 2 to process 0 by main
+Closed WRITE pipe from process 2 to process 1 by main
+Closed READ  pipe from process 2 to process 1 by main
+Closed WRITE pipe from process 0 to process 1 by worker 1
+Closed WRITE pipe from process 0 to process 2 by worker 1
+Closed READ  pipe from process 0 to process 2 by worker 1
+Closed READ  pipe from process 1 to process 0 by worker 1
+Closed READ  pipe from process 1 to process 2 by worker 1
+Closed WRITE pipe from process 2 to process 0 by worker 1
+Closed READ  pipe from process 2 to process 0 by worker 1
+Closed WRITE pipe from process 2 to process 1 by worker 1
+Closed WRITE pipe from process 0 to process 1 by worker 2
+Closed READ  pipe from process 0 to process 1 by worker 2
+Closed WRITE pipe from process 0 to process 2 by worker 2
+Closed WRITE pipe from process 1 to process 0 by worker 2
+Closed READ  pipe from process 1 to process 0 by worker 2
+Closed WRITE pipe from process 1 to process 2 by worker 2
+Closed READ  pipe from process 2 to process 0 by worker 2
+Closed READ  pipe from process 2 to process 1 by worker 2
+Opened pipe from process 0 to process 1
+Opened pipe from process 0 to process 2
+Opened pipe from process 0 to process 3
+Opened pipe from process 0 to process 4
+Opened pipe from process 1 to process 0
+Opened pipe from process 1 to process 2
+Opened pipe from process 1 to process 3
+Opened pipe from process 1 to process 4
+Opened pipe from process 2 to process 0
+Opened pipe from process 2 to process 1
+Opened pipe from process 2 to process 3
+Opened pipe from process 2 to process 4
+Opened pipe from process 3 to process 0
+Opened pipe from process 3 to process 1
+Opened pipe from process 3 to process 2
+Opened pipe from process 3 to process 4
+Opened pipe from process 4 to process 0
+Opened pipe from process 4 to process 1
+Opened pipe from process 4 to process 2
+Opened pipe from process 4 to process 3
+Closed WRITE pipe from process 0 to process 1 by worker 1
+Closed WRITE pipe from process 0 to process 2 by worker 1
+Closed READ  pipe from process 0 to process 2 by worker 1
+Closed WRITE pipe from process 0 to process 3 by worker 1
+Closed READ  pipe from process 0 to process 3 by worker 1
+Closed WRITE pipe from process 0 to process 4 by worker 1
+Closed READ  pipe from process 0 to process 4 by worker 1
+Closed READ  pipe from process 1 to process 0 by worker 1
+Closed READ  pipe from process 1 to process 2 by worker 1
+Closed READ  pipe from process 1 to process 3 by worker 1
+Closed READ  pipe from process 1 to process 4 by worker 1
+Closed WRITE pipe from process 2 to process 0 by worker 1
+Closed READ  pipe from process 2 to process 0 by worker 1
+Closed WRITE pipe from process 2 to process 1 by worker 1
+Closed WRITE pipe from process 2 to process 3 by worker 1
+Closed READ  pipe from process 2 to process 3 by worker 1
+Closed WRITE pipe from process 2 to process 4 by worker 1
+Closed READ  pipe from process 2 to process 4 by worker 1
+Closed WRITE pipe from process 3 to process 0 by worker 1
+Closed READ  pipe from process 3 to process 0 by worker 1
+Closed WRITE pipe from process 3 to process 1 by worker 1
+Closed WRITE pipe from process 3 to process 2 by worker 1
+Closed READ  pipe from process 3 to process 2 by worker 1
+Closed WRITE pipe from process 3 to process 4 by worker 1
+Closed READ  pipe from process 3 to process 4 by worker 1
+Closed WRITE pipe from process 4 to process 0 by worker 1
+Closed READ  pipe from process 4 to process 0 by worker 1
+Closed WRITE pipe from process 4 to process 1 by worker 1
+Closed WRITE pipe from process 4 to process 2 by worker 1
+Closed READ  pipe from process 4 to process 2 by worker 1
+Closed WRITE pipe from process 4 to process 3 by worker 1
+Closed READ  pipe from process 4 to process 3 by worker 1
+Closed READ  pipe from process 0 to process 1 by main
+Closed READ  pipe from process 0 to process 2 by main
+Closed READ  pipe from process 0 to process 3 by main
+Closed READ  pipe from process 0 to process 4 by main
+Closed WRITE pipe from process 1 to process 0 by main
+Closed WRITE pipe from process 1 to process 2 by main
+Closed READ  pipe from process 1 to process 2 by main
+Closed WRITE pipe from process 1 to process 3 by main
+Closed READ  pipe from process 1 to process 3 by main
+Closed WRITE pipe from process 1 to process 4 by main
+Closed READ  pipe from process 1 to process 4 by main
+Closed WRITE pipe from process 2 to process 0 by main
+Closed WRITE pipe from process 2 to process 1 by main
+Closed READ  pipe from process 2 to process 1 by main
+Closed WRITE pipe from process 2 to process 3 by main
+Closed READ  pipe from process 2 to process 3 by main
+Closed WRITE pipe from process 2 to process 4 by main
+Closed READ  pipe from process 2 to process 4 by main
+Closed WRITE pipe from process 3 to process 0 by main
+Closed WRITE pipe from process 3 to process 1 by main
+Closed READ  pipe from process 3 to process 1 by main
+Closed WRITE pipe from process 3 to process 2 by main
+Closed READ  pipe from process 3 to process 2 by main
+Closed WRITE pipe from process 3 to process 4 by main
+Closed READ  pipe from process 3 to process 4 by main
+Closed WRITE pipe from process 4 to process 0 by main
+Closed WRITE pipe from process 4 to process 1 by main
+Closed READ  pipe from process 4 to process 1 by main
+Closed WRITE pipe from process 4 to process 2 by main
+Closed READ  pipe from process 4 to process 2 by main
+Closed WRITE pipe from process 4 to process 3 by main
+Closed READ  pipe from process 4 to process 3 by main
+Closed WRITE pipe from process 0 to process 1 by worker 2
+Closed READ  pipe from process 0 to process 1 by worker 2
+Closed WRITE pipe from process 0 to process 2 by worker 2
+Closed WRITE pipe from process 0 to process 3 by worker 2
+Closed READ  pipe from process 0 to process 3 by worker 2
+Closed WRITE pipe from process 0 to process 4 by worker 2
+Closed READ  pipe from process 0 to process 4 by worker 2
+Closed WRITE pipe from process 1 to process 0 by worker 2
+Closed READ  pipe from process 1 to process 0 by worker 2
+Closed WRITE pipe from process 1 to process 2 by worker 2
+Closed WRITE pipe from process 1 to process 3 by worker 2
+Closed READ  pipe from process 1 to process 3 by worker 2
+Closed WRITE pipe from process 1 to process 4 by worker 2
+Closed READ  pipe from process 1 to process 4 by worker 2
+Closed READ  pipe from process 2 to process 0 by worker 2
+Closed READ  pipe from process 2 to process 1 by worker 2
+Closed READ  pipe from process 2 to process 3 by worker 2
+Closed READ  pipe from process 2 to process 4 by worker 2
+Closed WRITE pipe from process 3 to process 0 by worker 2
+Closed READ  pipe from process 3 to process 0 by worker 2
+Closed WRITE pipe from process 3 to process 1 by worker 2
+Closed READ  pipe from process 3 to process 1 by worker 2
+Closed WRITE pipe from process 3 to process 2 by worker 2
+Closed WRITE pipe from process 3 to process 4 by worker 2
+Closed READ  pipe from process 3 to process 4 by worker 2
+Closed WRITE pipe from process 4 to process 0 by worker 2
+Closed READ  pipe from process 4 to process 0 by worker 2
+Closed WRITE pipe from process 4 to process 1 by worker 2
+Closed READ  pipe from process 4 to process 1 by worker 2
+Closed WRITE pipe from process 4 to process 2 by worker 2
+Closed WRITE pipe from process 4 to process 3 by worker 2
+Closed READ  pipe from process 4 to process 3 by worker 2
+Closed WRITE pipe from process 0 to process 1 by worker 4
+Closed READ  pipe from process 0 to process 1 by worker 4
+Closed WRITE pipe from process 0 to process 2 by worker 4
+Closed READ  pipe from process 0 to process 2 by worker 4
+Closed WRITE pipe from process 0 to process 3 by worker 4
+Closed READ  pipe from process 0 to process 3 by worker 4
+Closed WRITE pipe from process 0 to process 4 by worker 4
+Closed WRITE pipe from process 1 to process 0 by worker 4
+Closed READ  pipe from process 1 to process 0 by worker 4
+Closed WRITE pipe from process 1 to process 2 by worker 4
+Closed READ  pipe from process 1 to process 2 by worker 4
+Closed WRITE pipe from process 1 to process 3 by worker 4
+Closed READ  pipe from process 1 to process 3 by worker 4
+Closed WRITE pipe from process 1 to process 4 by worker 4
+Closed WRITE pipe from process 2 to process 0 by worker 4
+Closed READ  pipe from process 2 to process 0 by worker 4
+Closed WRITE pipe from process 2 to process 1 by worker 4
+Closed READ  pipe from process 2 to process 1 by worker 4
+Closed WRITE pipe from process 2 to process 3 by worker 4
+Closed READ  pipe from process 2 to process 3 by worker 4
+Closed WRITE pipe from process 2 to process 4 by worker 4
+Closed WRITE pipe from process 3 to process 0 by worker 4
+Closed READ  pipe from process 3 to process 0 by worker 4
+Closed WRITE pipe from process 3 to process 1 by worker 4
+Closed READ  pipe from process 3 to process 1 by worker 4
+Closed WRITE pipe from process 3 to process 2 by worker 4
+Closed READ  pipe from process 3 to process 2 by worker 4
+Closed WRITE pipe from process 3 to process 4 by worker 4
+Closed READ  pipe from process 4 to process 0 by worker 4
+Closed READ  pipe from process 4 to process 1 by worker 4
+Closed READ  pipe from process 4 to process 2 by worker 4
+Closed READ  pipe from process 4 to process 3 by worker 4
+Closed WRITE pipe from process 0 to process 1 by worker 3
+Closed READ  pipe from process 0 to process 1 by worker 3
+Closed WRITE pipe from process 0 to process 2 by worker 3
+Closed READ  pipe from process 0 to process 2 by worker 3
+Closed WRITE pipe from process 0 to process 3 by worker 3
+Closed WRITE pipe from process 0 to process 4 by worker 3
+Closed READ  pipe from process 0 to process 4 by worker 3
+Closed WRITE pipe from process 1 to process 0 by worker 3
+Closed READ  pipe from process 1 to process 0 by worker 3
+Closed WRITE pipe from process 1 to process 2 by worker 3
+Closed READ  pipe from process 1 to process 2 by worker 3
+Closed WRITE pipe from process 1 to process 3 by worker 3
+Closed WRITE pipe from process 1 to process 4 by worker 3
+Closed READ  pipe from process 1 to process 4 by worker 3
+Closed WRITE pipe from process 2 to process 0 by worker 3
+Closed READ  pipe from process 2 to process 0 by worker 3
+Closed WRITE pipe from process 2 to process 1 by worker 3
+Closed READ  pipe from process 2 to process 1 by worker 3
+Closed WRITE pipe from process 2 to process 3 by worker 3
+Closed WRITE pipe from process 2 to process 4 by worker 3
+Closed READ  pipe from process 2 to process 4 by worker 3
+Closed READ  pipe from process 3 to process 0 by worker 3
+Closed READ  pipe from process 3 to process 1 by worker 3
+Closed READ  pipe from process 3 to process 2 by worker 3
+Closed READ  pipe from process 3 to process 4 by worker 3
+Closed WRITE pipe from process 4 to process 0 by worker 3
+Closed READ  pipe from process 4 to process 0 by worker 3
+Closed WRITE pipe from process 4 to process 1 by worker 3
+Closed READ  pipe from process 4 to process 1 by worker 3
+Closed WRITE pipe from process 4 to process 2 by worker 3
+Closed READ  pipe from process 4 to process 2 by worker 3
+Closed WRITE pipe from process 4 to process 3 by worker 3

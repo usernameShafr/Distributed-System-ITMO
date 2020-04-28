@@ -1,0 +1,138 @@
+0: process 0 received all STARTED messages
+0: process 1 (pid  2449, parent  2447) has STARTED with balance $10
+0: process 2 (pid  2451, parent  2447) has STARTED with balance $20
+0: process 2 received all STARTED messages
+0: process 1 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 1 to process 1
+2: process 1 received $ 1 from process 2
+2: process 1 has DONE with balance $10
+2: process 0 received all DONE messages
+2: process 2 has DONE with balance $20
+2: process 1 received all DONE messages
+2: process 2 received all DONE messages
+0: process 0 received all STARTED messages
+0: process 2 (pid  2455, parent  2453) has STARTED with balance $ 3
+0: process 1 (pid  2454, parent  2453) has STARTED with balance $34
+0: process 2 received all STARTED messages
+0: process 1 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 1 to process 1
+2: process 1 received $ 1 from process 2
+2: process 1 has DONE with balance $34
+2: process 0 received all DONE messages
+2: process 2 has DONE with balance $ 3
+2: process 1 received all DONE messages
+2: process 2 received all DONE messages
+0: process 0 received all STARTED messages
+0: process 1 (pid  2458, parent  2457) has STARTED with balance $34
+0: process 2 (pid  2459, parent  2457) has STARTED with balance $ 5
+1: process 2 received all STARTED messages
+0: process 3 (pid  2460, parent  2457) has STARTED with balance $ 5
+0: process 4 (pid  2461, parent  2457) has STARTED with balance $ 8
+1: process 3 received all STARTED messages
+0: process 5 (pid  2462, parent  2457) has STARTED with balance $ 3
+1: process 4 received all STARTED messages
+1: process 5 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 1 received all STARTED messages
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 1 to process 1
+5: process 1 received $ 1 from process 5
+5: process 1 has DONE with balance $34
+5: process 0 received all DONE messages
+5: process 2 has DONE with balance $ 4
+5: process 1 received all DONE messages
+5: process 3 has DONE with balance $ 4
+5: process 2 received all DONE messages
+5: process 4 has DONE with balance $ 7
+5: process 3 received all DONE messages
+5: process 5 has DONE with balance $ 6
+5: process 4 received all DONE messages
+5: process 5 received all DONE messages
+0: process 0 received all STARTED messages
+0: process 2 (pid  2470, parent  2468) has STARTED with balance $34
+0: process 3 (pid  2471, parent  2468) has STARTED with balance $ 5
+1: process 3 received all STARTED messages
+1: process 2 received all STARTED messages
+0: process 1 (pid  2469, parent  2468) has STARTED with balance $ 3
+0: process 5 (pid  2473, parent  2468) has STARTED with balance $ 8
+0: process 6 (pid  2474, parent  2468) has STARTED with balance $ 3
+1: process 5 received all STARTED messages
+0: process 4 (pid  2472, parent  2468) has STARTED with balance $ 5
+1: process 6 received all STARTED messages
+1: process 4 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 1 received all STARTED messages
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 4 to process 5
+4: process 5 received $ 4 from process 4
+5: process 5 transferred $ 5 to process 6
+5: process 6 received $ 5 from process 5
+6: process 6 transferred $ 1 to process 1
+6: process 1 received $ 1 from process 6
+6: process 1 has DONE with balance $ 3
+6: process 0 received all DONE messages
+6: process 2 has DONE with balance $33
+6: process 1 received all DONE messages
+6: process 3 has DONE with balance $ 4
+6: process 2 received all DONE messages
+6: process 3 received all DONE messages
+6: process 4 has DONE with balance $ 4
+6: process 5 has DONE with balance $ 7
+6: process 4 received all DONE messages
+6: process 6 has DONE with balance $ 7
+6: process 5 received all DONE messages
+6: process 6 received all DONE messages
+0: process 0 received all STARTED messages
+0: process 1 (pid  2316, parent  2315) has STARTED with balance $10
+0: process 2 (pid  2317, parent  2315) has STARTED with balance $20
+1: process 2 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 1 received all STARTED messages
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 1 to process 1
+2: process 1 received $ 1 from process 2
+2: process 1 has DONE with balance $10
+2: process 0 received all DONE messages
+2: process 2 has DONE with balance $20
+2: process 1 received all DONE messages
+2: process 2 received all DONE messages
+0: process 0 received all STARTED messages
+0: process 1 (pid  2319, parent  2318) has STARTED with balance $23
+0: process 2 (pid  2320, parent  2318) has STARTED with balance $43
+0: process 4 (pid  2322, parent  2318) has STARTED with balance $23
+1: process 2 received all STARTED messages
+0: process 3 (pid  2321, parent  2318) has STARTED with balance $ 3
+1: process 4 received all STARTED messages
+1: process 3 received all STARTED messages
+1: process 1 transferred $ 1 to process 2
+1: process 1 received all STARTED messages
+1: process 2 received $ 1 from process 1
+2: process 2 transferred $ 2 to process 3
+2: process 3 received $ 2 from process 2
+3: process 3 transferred $ 3 to process 4
+3: process 4 received $ 3 from process 3
+4: process 4 transferred $ 1 to process 1
+4: process 1 received $ 1 from process 4
+4: process 1 has DONE with balance $23
+4: process 0 received all DONE messages
+4: process 2 has DONE with balance $42
+4: process 1 received all DONE messages
+4: process 3 has DONE with balance $ 2
+4: process 2 received all DONE messages
+4: process 4 has DONE with balance $25
+4: process 3 received all DONE messages
+4: process 4 received all DONE messages

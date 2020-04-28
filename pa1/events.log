@@ -1,0 +1,76 @@
+Process 4 (pid 18684, parent 18680) has STARTED
+Process 3 (pid 18683, parent 18680) has STARTED
+Process 2 (pid 18682, parent 18680) has STARTED
+Process 1 (pid 18681, parent 18680) has STARTED
+Process 0 received all STARTED messages
+Process 4 received all STARTED messages
+Process 4 has DONE its work
+Process 3 received all STARTED messages
+Process 3 has DONE its work
+Process 2 received all STARTED messages
+Process 2 has DONE its work
+Process 1 received all STARTED messages
+Process 1 has DONE its work
+Process 0 received all DONE messages
+Process 4 received all DONE messages
+Process 3 received all DONE messages
+Process 2 received all DONE messages
+Process 1 received all DONE messages
+Process 1 (pid  2167, parent  2166) has STARTED
+Process 2 (pid  2168, parent  2166) has STARTED
+Process 5 (pid  2171, parent  2166) has STARTED
+Process 4 (pid  2170, parent  2166) has STARTED
+Process 4 received all STARTED messages
+Process 3 (pid  2169, parent  2166) has STARTED
+Process 5 received all STARTED messages
+Process 1 received all STARTED messages
+Process 0 received all STARTED messages
+Process 4 has DONE its work
+Process 5 has DONE its work
+Process 2 received all STARTED messages
+Process 1 has DONE its work
+Process 2 has DONE its work
+Process 3 received all STARTED messages
+Process 3 has DONE its work
+Process 0 received all DONE messages
+Process 2 received all DONE messages
+Process 3 received all DONE messages
+Process 1 received all DONE messages
+Process 5 received all DONE messages
+Process 4 received all DONE messages
+Process 1 (pid  2442, parent  2441) has STARTED
+Process 2 (pid  2443, parent  2441) has STARTED
+Process 0 received all STARTED messages
+Process 1 received all STARTED messages
+Process 2 received all STARTED messages
+Process 1 has DONE its work
+Process 2 has DONE its work
+Process 1 received all DONE messages
+Process 2 received all DONE messages
+Process 0 received all DONE messages
+Process 1 (pid  2133, parent  2132) has STARTED
+Process 2 (pid  2134, parent  2132) has STARTED
+Process 4 (pid  2136, parent  2132) has STARTED
+Process 1 received all STARTED messages
+Process 5 (pid  2137, parent  2132) has STARTED
+Process 2 received all STARTED messages
+Process 4 received all STARTED messages
+Process 1 has DONE its work
+Process 2 has DONE its work
+Process 4 has DONE its work
+Process 6 (pid  2138, parent  2132) has STARTED
+Process 5 received all STARTED messages
+Process 3 (pid  2135, parent  2132) has STARTED
+Process 5 has DONE its work
+Process 0 received all STARTED messages
+Process 6 received all STARTED messages
+Process 6 has DONE its work
+Process 3 received all STARTED messages
+Process 3 has DONE its work
+Process 3 received all DONE messages
+Process 1 received all DONE messages
+Process 2 received all DONE messages
+Process 4 received all DONE messages
+Process 5 received all DONE messages
+Process 6 received all DONE messages
+Process 0 received all DONE messages

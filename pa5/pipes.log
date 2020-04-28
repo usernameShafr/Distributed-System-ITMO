@@ -1,0 +1,84 @@
+Opened pipe from process 0 to process 1
+Opened pipe from process 0 to process 2
+Opened pipe from process 0 to process 3
+Opened pipe from process 1 to process 0
+Opened pipe from process 1 to process 2
+Opened pipe from process 1 to process 3
+Opened pipe from process 2 to process 0
+Opened pipe from process 2 to process 1
+Opened pipe from process 2 to process 3
+Opened pipe from process 3 to process 0
+Opened pipe from process 3 to process 1
+Opened pipe from process 3 to process 2
+Closed READ  pipe from process 0 to process 1 by main
+Closed READ  pipe from process 0 to process 2 by main
+Closed READ  pipe from process 0 to process 3 by main
+Closed WRITE pipe from process 1 to process 0 by main
+Closed WRITE pipe from process 1 to process 2 by main
+Closed READ  pipe from process 1 to process 2 by main
+Closed WRITE pipe from process 1 to process 3 by main
+Closed READ  pipe from process 1 to process 3 by main
+Closed WRITE pipe from process 2 to process 0 by main
+Closed WRITE pipe from process 2 to process 1 by main
+Closed READ  pipe from process 2 to process 1 by main
+Closed WRITE pipe from process 2 to process 3 by main
+Closed READ  pipe from process 2 to process 3 by main
+Closed WRITE pipe from process 3 to process 0 by main
+Closed WRITE pipe from process 3 to process 1 by main
+Closed READ  pipe from process 3 to process 1 by main
+Closed WRITE pipe from process 3 to process 2 by main
+Closed READ  pipe from process 3 to process 2 by main
+Closed WRITE pipe from process 0 to process 1 by worker 1
+Closed WRITE pipe from process 0 to process 2 by worker 1
+Closed READ  pipe from process 0 to process 2 by worker 1
+Closed WRITE pipe from process 0 to process 3 by worker 1
+Closed READ  pipe from process 0 to process 3 by worker 1
+Closed READ  pipe from process 1 to process 0 by worker 1
+Closed READ  pipe from process 1 to process 2 by worker 1
+Closed READ  pipe from process 1 to process 3 by worker 1
+Closed WRITE pipe from process 2 to process 0 by worker 1
+Closed READ  pipe from process 2 to process 0 by worker 1
+Closed WRITE pipe from process 2 to process 1 by worker 1
+Closed WRITE pipe from process 2 to process 3 by worker 1
+Closed READ  pipe from process 2 to process 3 by worker 1
+Closed WRITE pipe from process 3 to process 0 by worker 1
+Closed READ  pipe from process 3 to process 0 by worker 1
+Closed WRITE pipe from process 3 to process 1 by worker 1
+Closed WRITE pipe from process 3 to process 2 by worker 1
+Closed READ  pipe from process 3 to process 2 by worker 1
+Closed WRITE pipe from process 0 to process 1 by worker 2
+Closed READ  pipe from process 0 to process 1 by worker 2
+Closed WRITE pipe from process 0 to process 2 by worker 2
+Closed WRITE pipe from process 0 to process 3 by worker 2
+Closed READ  pipe from process 0 to process 3 by worker 2
+Closed WRITE pipe from process 1 to process 0 by worker 2
+Closed READ  pipe from process 1 to process 0 by worker 2
+Closed WRITE pipe from process 1 to process 2 by worker 2
+Closed WRITE pipe from process 1 to process 3 by worker 2
+Closed READ  pipe from process 1 to process 3 by worker 2
+Closed READ  pipe from process 2 to process 0 by worker 2
+Closed READ  pipe from process 2 to process 1 by worker 2
+Closed READ  pipe from process 2 to process 3 by worker 2
+Closed WRITE pipe from process 3 to process 0 by worker 2
+Closed READ  pipe from process 3 to process 0 by worker 2
+Closed WRITE pipe from process 3 to process 1 by worker 2
+Closed READ  pipe from process 3 to process 1 by worker 2
+Closed WRITE pipe from process 3 to process 2 by worker 2
+Closed WRITE pipe from process 0 to process 1 by worker 3
+Closed READ  pipe from process 0 to process 1 by worker 3
+Closed WRITE pipe from process 0 to process 2 by worker 3
+Closed READ  pipe from process 0 to process 2 by worker 3
+Closed WRITE pipe from process 0 to process 3 by worker 3
+Closed WRITE pipe from process 1 to process 0 by worker 3
+Closed READ  pipe from process 1 to process 0 by worker 3
+Closed WRITE pipe from process 1 to process 2 by worker 3
+Closed READ  pipe from process 1 to process 2 by worker 3
+Closed WRITE pipe from process 1 to process 3 by worker 3
+Closed WRITE pipe from process 2 to process 0 by worker 3
+Closed READ  pipe from process 2 to process 0 by worker 3
+Closed WRITE pipe from process 2 to process 1 by worker 3
+Closed READ  pipe from process 2 to process 1 by worker 3
+Closed WRITE pipe from process 2 to process 3 by worker 3
+Closed READ  pipe from process 3 to process 0 by worker 3
+Closed READ  pipe from process 3 to process 1 by worker 3
+Closed READ  pipe from process 3 to process 2 by worker 3
